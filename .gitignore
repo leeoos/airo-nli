@@ -1,6 +1,10 @@
 # My ignores
 dataset
 # relational_graph
+augmentation/foo
+augmentation/bar
+augmentation/*.txt
+
 
 ######################
 
