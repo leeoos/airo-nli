@@ -3,7 +3,7 @@ dataset
 # relational_graph
 augmentation/foo
 augmentation/bar
-augmentation/*.txt
+# augmentation/*.txt
 
 
 ######################
